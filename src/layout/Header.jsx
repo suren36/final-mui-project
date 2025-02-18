@@ -21,6 +21,7 @@ export const Header = () => {
     
   
   <Box sx={{display:"flex",width:"100%",justifyContent:"center",alignItems:"center"}}>
+    
   <AllInclusiveIcon />
 
 <Tabs component={Link} to="/" sx={{ ml: 2, textDecoration:"none" }}>
